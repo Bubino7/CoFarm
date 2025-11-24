@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "624613958092",
+    "project_id": "cofarm-7aadd",
+    "storage_bucket": "cofarm-7aadd.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:624613958092:android:e3966561c1164e341c7d69",
+        "android_client_info": {
+          "package_name": "com.example.frontend_flutter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcdu3PhKfjuLqKucK96wWy8K0k7N29utI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
